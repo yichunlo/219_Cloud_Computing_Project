@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc ../run/libcapchild.a CMakeFiles/capchild.dir/capture_ifinfo.c.o CMakeFiles/capchild.dir/capture_sync.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib ../run/libcapchild.a
