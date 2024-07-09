@@ -4,7 +4,7 @@ MobileInsight-Cloud (Cloud service and Web interface of MobileInsight)
 
 ## Redis
 
-Currently, I use Redis Cloud as temporary solution because I don't have sudo permission on share environment. Will discuss with TA next Monday. You can connect the Redis with the following instruction.
+Redis Cloud
 
 ```python
 # python
