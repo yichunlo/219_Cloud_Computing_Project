@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc ../run/libcaputils.a "CMakeFiles/caputils.dir/capture-pcap-util-unix.c.o" "CMakeFiles/caputils.dir/capture-pcap-util.c.o" CMakeFiles/caputils.dir/iface_monitor.c.o CMakeFiles/caputils.dir/ws80211_utils.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib ../run/libcaputils.a

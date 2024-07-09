@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc ../run/librandpkt_core.a CMakeFiles/randpkt_core.dir/randpkt_core.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib ../run/librandpkt_core.a
